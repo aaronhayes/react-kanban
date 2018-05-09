@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #ECEEEE;
+}
+
+.board-col {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.col-title {
+    text-align: center;
+    vertical-align: center;
+    color: #FFF;
+    min-height: 30px;
+}
+
+.board {
+    padding-top: 10px;
+}
+
+.card {
+    padding-top: 14px;
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: #FFFFFF;
+    margin-bottom: 12px;
+}
+
+.content {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    clear: none;
+}
+
+.left {
+    float: left;
+    width: 5%;
+    clear: none;
+    cursor: pointer;
+}
+
+.right {
+    width: 5%;
+    clear: none;
+    float: right;
+    cursor: pointer;
+}
