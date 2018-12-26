@@ -1,6 +1,6 @@
 # Kanban Board Made with React!
 
-Scretr Demo
+Scretr Demo!
 
 Live Demo at: https://aaronhayes.github.io/react-kanban/
 
