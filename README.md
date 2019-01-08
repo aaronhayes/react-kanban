@@ -1,5 +1,7 @@
 # Kanban Board Made with React!
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/aaronhayes/react-kanban.svg)](https://greenkeeper.io/)
+
 Scretr Demo!
 
 Live Demo at: https://aaronhayes.github.io/react-kanban/
